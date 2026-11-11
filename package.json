@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/PedroRibeiro26/front-aula-exercicios/issues"
   },
-  "homepage": "https://github.com/PedroRibeiro26/front-aula-exercicios#readme"
+  "homepage": "https://github.com/PedroRibeiro26/front-aula-exercicios#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
